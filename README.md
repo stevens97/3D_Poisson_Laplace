@@ -1,4 +1,4 @@
-# Laplace
+# Poisson_Laplace_Equation3D
 
 What this program does:
 ========================================
