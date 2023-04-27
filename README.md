@@ -10,6 +10,11 @@ This Python script is based on an old Computational Physics project, in which Po
 
 The electric fields of the aforementioned are then visualised.
 
+Data Visualisations:
+========================================
+
+Please see all .png files attached for example output.
+
 Python libraries used:
 ========================================
 
