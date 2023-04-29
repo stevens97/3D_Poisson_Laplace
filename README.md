@@ -1,5 +1,9 @@
 # Poisson Laplace Equation 3D
 
+<img src="https://raw.githubusercontent.com/stevens97/HartRAO_Astrophysical_Maser_Tutorial/main/Sample.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/stevens97/HartRAO_Astrophysical_Maser_Tutorial/main/Sample.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/stevens97/HartRAO_Astrophysical_Maser_Tutorial/main/Sample.png" width="50%" height="50%">
+
 What this program does:
 ========================================
 
