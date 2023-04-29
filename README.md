@@ -1,4 +1,4 @@
-# Poisson Laplace Equation 3D
+# 3D Poisson Laplace Equations
 
 <img src="https://raw.githubusercontent.com/stevens97/3D_Poisson_Laplace_Equations/main/Capacitor_Field.png" width="50%" height="50%">
 <img src="https://raw.githubusercontent.com/stevens97/3D_Poisson_Laplace_Equations/main/Line_Charge_Field.png" width="50%" height="50%">
