@@ -5,7 +5,7 @@
 What this program does:
 ========================================
 
-This Python script is based on an old Computational Physics project, in which Poisson's and Laplace's equations are solved for:
+This Python script is based on an Computational Physics project, in which Poisson's and Laplace's equations are solved for:
 - A single point charge.
 - A line charge.
 - A parallel capacitor.
