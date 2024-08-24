@@ -1,6 +1,6 @@
 # 3D Poisson Laplace Equations
 
-![alt text](https://github.com/stevens97/3D_Poisson_Laplace/blob/main/Capacitor_Field.png)
+![](https://github.com/stevens97/3D_Poisson_Laplace/blob/main/Capacitor_Field.png)
 
 What this program does:
 ========================================
