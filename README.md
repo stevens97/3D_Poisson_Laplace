@@ -1,5 +1,7 @@
 # 3D Poisson Laplace Equations
 
+![alt text](http://url/to/img.png)
+
 What this program does:
 ========================================
 
